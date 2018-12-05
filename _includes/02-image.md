@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Mio](https://backup.hdslb.com/bfs/mainfront/websafe.png)
